@@ -1,0 +1,67 @@
+GPTModel:
+GPTModel(
+  (tok_emb): Embedding(65, 48)
+  (pos_emb): Embedding(128, 48)
+  (drop_emb): Dropout(p=0.1, inplace=False)
+  (trf_blocks): Sequential(
+    (0): TransformerBlock(
+      (att): MultiHeadAttention(
+        (W_query): Linear(in_features=48, out_features=48, bias=False)
+        (W_key): Linear(in_features=48, out_features=48, bias=False)
+        (W_value): Linear(in_features=48, out_features=48, bias=False)
+        (out_proj): Linear(in_features=48, out_features=48, bias=True)
+        (dropout): Dropout(p=0.1, inplace=False)
+      )
+      (ff): FeedForward(
+        (layers): Sequential(
+          (0): Linear(in_features=48, out_features=192, bias=True)
+          (1): GELU()
+          (2): Linear(in_features=192, out_features=48, bias=True)
+        )
+      )
+      (norm1): LayerNorm()
+      (norm2): LayerNorm()
+      (drop_shortcut): Dropout(p=0.1, inplace=False)
+    )
+    (1): TransformerBlock(
+      (att): MultiHeadAttention(
+        (W_query): Linear(in_features=48, out_features=48, bias=False)
+        (W_key): Linear(in_features=48, out_features=48, bias=False)
+        (W_value): Linear(in_features=48, out_features=48, bias=False)
+        (out_proj): Linear(in_features=48, out_features=48, bias=True)
+        (dropout): Dropout(p=0.1, inplace=False)
+      )
+      (ff): FeedForward(
+        (layers): Sequential(
+          (0): Linear(in_features=48, out_features=192, bias=True)
+          (1): GELU()
+          (2): Linear(in_features=192, out_features=48, bias=True)
+        )
+      )
+      (norm1): LayerNorm()
+      (norm2): LayerNorm()
+      (drop_shortcut): Dropout(p=0.1, inplace=False)
+    )
+    (2): TransformerBlock(
+      (att): MultiHeadAttention(
+        (W_query): Linear(in_features=48, out_features=48, bias=False)
+        (W_key): Linear(in_features=48, out_features=48, bias=False)
+        (W_value): Linear(in_features=48, out_features=48, bias=False)
+        (out_proj): Linear(in_features=48, out_features=48, bias=True)
+        (dropout): Dropout(p=0.1, inplace=False)
+      )
+      (ff): FeedForward(
+        (layers): Sequential(
+          (0): Linear(in_features=48, out_features=192, bias=True)
+          (1): GELU()
+          (2): Linear(in_features=192, out_features=48, bias=True)
+        )
+      )
+      (norm1): LayerNorm()
+      (norm2): LayerNorm()
+      (drop_shortcut): Dropout(p=0.1, inplace=False)
+    )
+  )
+  (final_norm): LayerNorm()
+  (out_head): Linear(in_features=48, out_features=65, bias=False)
+)

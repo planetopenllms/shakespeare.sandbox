@@ -1,0 +1,348 @@
+Ep 1 (Step 000000): Train loss 4.260, Val loss 4.317 Token seen 12800
+O God, O God!Xzo3DFuVLvgfau&zgF!tSk tDgxe.aB FRDFehqDFTDF.YDFu!
+Ep 1 (Step 000005): Train loss 4.106, Val loss 4.208 Token seen 76800
+O God, O God!Lso3DFuVLvgfau&zBF!tSk tDgxe aB tF!fqLan tOeehDFlR
+Ep 1 (Step 000010): Train loss 3.960, Val loss 4.100 Token seen 140800
+O God, O God! tO FB  LU t th! F th  t t t aB t L  Lae teheeeh!
+Ep 1 (Step 000015): Train loss 3.809, Val loss 3.996 Token seen 204800
+O God, O God! t   F    t t t  F th  t t t  t t    t n t t te B
+Ep 1 (Step 000020): Train loss 3.686, Val loss 3.903 Token seen 268800
+O God, O God!  t       t   t    te  t t    t      e       t
+Ep 1 (Step 000025): Train loss 3.584, Val loss 3.824 Token seen 332800
+O God, O God!  t           t    t   t t    t      e
+Ep 1 (Step 000030): Train loss 3.502, Val loss 3.759 Token seen 396800
+O God, O God!              t               t      e
+Ep 1 (Step 000035): Train loss 3.433, Val loss 3.702 Token seen 460800
+O God, O God!  t           t    t   t t    t      e       t
+Ep 1 (Step 000040): Train loss 3.394, Val loss 3.653 Token seen 524800
+O God, O God!  t       t   t    t   t t  t t      t      t  t
+Ep 1 (Step 000045): Train loss 3.352, Val loss 3.612 Token seen 588800
+O God, O God! t   t    t t t t  t t t t t  t t    t t t  t  t
+Ep 1 (Step 000050): Train loss 3.321, Val loss 3.579 Token seen 652800
+O God, O God! t   t   t t  t t t t  t t t  t t    t t t t t t
+Ep 1 (Step 000055): Train loss 3.331, Val loss 3.553 Token seen 716800
+O God, O God! t   t  t t t t t t t  t t t  t t t  t t t t t t
+Ep 1 (Step 000060): Train loss 3.244, Val loss 3.529 Token seen 780800
+O God, O God! t  t t t t t t t t t  t t t  t t t  t t t t t t
+Ep 1 (Step 000065): Train loss 3.225, Val loss 3.505 Token seen 844800
+O God, O God! t t t  t t t t t t t  t t t  t t t  t t t t t t t
+Ep 1 (Step 000070): Train loss 3.193, Val loss 3.484 Token seen 908800
+O God, O God! t t t t t t t t t t t t t t t t t t t t t t t t t
+Ep 1 (Step 000075): Train loss 3.172, Val loss 3.466 Token seen 972800
+O God, O God! t t t t t t th t t t t t t t t t t te t t t t t t
+Ep 1 (Step 000080): Train loss 3.128, Val loss 3.448 Token seen 1036800
+O God, O God! t t t t t t the t t t t t t t t t t t t t t t t t
+Ep 1 (Step 000085): Train loss 3.103, Val loss 3.430 Token seen 1100800
+O God, O God! t t t t t t the t t t t t t t t t t t t t t t t t
+Ep 1 (Step 000090): Train loss 3.097, Val loss 3.413 Token seen 1164800
+O God, O God! t t t t t t the t t t t t t t t t t t t t t t t t
+Ep 1 (Step 000095): Train loss 3.071, Val loss 3.393 Token seen 1228800
+O God, O God! t t t t t t the t t t t t t t t t t t t t t t t t
+Ep 1 (Step 000100): Train loss 3.047, Val loss 3.372 Token seen 1292800
+O God, O God! t t t t t t the t t t t t t t t t t t t t t t t t
+Ep 1 (Step 000105): Train loss 3.034, Val loss 3.351 Token seen 1356800
+O God, O God! t t t t t t the t the t t t t t t t t t t t t t t
+Ep 1 (Step 000110): Train loss 3.009, Val loss 3.330 Token seen 1420800
+O God, O God! t t t t t t the t the t t t t the t t t t t t the
+Ep 1 (Step 000115): Train loss 2.974, Val loss 3.309 Token seen 1484800
+O God, O God! the t t t t the t the t t the the t the the t the
+Ep 1 (Step 000120): Train loss 3.003, Val loss 3.287 Token seen 1548800
+O God, O God! the t t t the the the t t the the t the the t the
+Ep 1 (Step 000125): Train loss 2.952, Val loss 3.267 Token seen 1612800
+O God, O God! the t t t the the the t t the the t the the t the
+Ep 1 (Step 000130): Train loss 2.930, Val loss 3.249 Token seen 1676800
+O God, O God! the t t t the the the t t the the t the the t the
+Ep 1 (Step 000135): Train loss 2.907, Val loss 3.233 Token seen 1740800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000140): Train loss 2.902, Val loss 3.219 Token seen 1804800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000145): Train loss 2.866, Val loss 3.205 Token seen 1868800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000150): Train loss 2.869, Val loss 3.190 Token seen 1932800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000155): Train loss 2.832, Val loss 3.175 Token seen 1996800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000160): Train loss 2.816, Val loss 3.158 Token seen 2060800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000165): Train loss 2.811, Val loss 3.143 Token seen 2124800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000170): Train loss 2.786, Val loss 3.131 Token seen 2188800
+O God, O God! the t t t the the the the the the t the the t the
+Ep 1 (Step 000175): Train loss 2.780, Val loss 3.113 Token seen 2252800
+O God, O God! the the t the the the the the the t the the t the
+Ep 1 (Step 000180): Train loss 2.809, Val loss 3.095 Token seen 2316800
+O God, O God!    AN t t the the the the the the the the he the
+Ep 1 (Step 000185): Train loss 2.751, Val loss 3.082 Token seen 2380800
+O God, O God!    AN t t the the the the the the t the the t the
+Ep 1 (Step 000190): Train loss 2.754, Val loss 3.068 Token seen 2444800
+O God, O God!    AN the the the the the the the the the he the
+Ep 1 (Step 000195): Train loss 2.760, Val loss 3.059 Token seen 2508800
+O God, O God!    AN the the the the the the the the the he the
+Ep 1 (Step 000200): Train loss 2.735, Val loss 3.052 Token seen 2572800
+O God, O God!    AN the the the the the the the the the the the
+Ep 1 (Step 000205): Train loss 2.761, Val loss 3.042 Token seen 2636800
+O God, O God!    AN the the the the the the the the the the the
+Ep 1 (Step 000210): Train loss 2.698, Val loss 3.029 Token seen 2700800
+O God, O God!    AN the the the the the the the the the the the
+Ep 1 (Step 000215): Train loss 2.705, Val loss 3.012 Token seen 2764800
+O God, O God!  A AN the the the the the the the the the the the
+Ep 1 (Step 000220): Train loss 2.709, Val loss 2.999 Token seen 2828800
+O God, O God!  ANIAn the the the the t the the the ane the the
+Ep 1 (Step 000225): Train loss 2.697, Val loss 2.990 Token seen 2892800
+O God, O God!  ANI: ANI  The the the t the the the ane the the
+Ep 1 (Step 000230): Train loss 2.674, Val loss 2.984 Token seen 2956800
+O God, O God!  ANI: ANI  ANN the the t the the the ane the the
+Ep 1 (Step 000235): Train loss 2.677, Val loss 2.979 Token seen 3020800
+O God, O God!  ANI: ANI  The the the t the the the the the the
+Ep 1 (Step 000240): Train loss 2.662, Val loss 2.969 Token seen 3084800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000245): Train loss 2.671, Val loss 2.963 Token seen 3148800
+O God, O God! AN the the the the the t the the the the the the
+Ep 1 (Step 000250): Train loss 2.640, Val loss 2.966 Token seen 3212800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000255): Train loss 2.676, Val loss 2.962 Token seen 3276800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000260): Train loss 2.667, Val loss 2.953 Token seen 3340800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000265): Train loss 2.635, Val loss 2.944 Token seen 3404800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000270): Train loss 2.631, Val loss 2.936 Token seen 3468800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000275): Train loss 2.637, Val loss 2.929 Token seen 3532800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000280): Train loss 2.640, Val loss 2.929 Token seen 3596800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000285): Train loss 2.637, Val loss 2.919 Token seen 3660800
+O God, O God!  ANI: ANI the the the the the the the the the the
+Ep 1 (Step 000290): Train loss 2.643, Val loss 2.917 Token seen 3724800
+O God, O God!  ANI the the the the the the the the an the t the
+Ep 1 (Step 000295): Train loss 2.641, Val loss 2.919 Token seen 3788800
+O God, O God!  ANI the the the the the the the the an the t the
+Ep 1 (Step 000300): Train loss 2.629, Val loss 2.910 Token seen 3852800
+O God, O God!  ANI the the the the the the the the and the the
+Ep 1 (Step 000305): Train loss 2.608, Val loss 2.910 Token seen 3916800
+O God, O God!  ANI the the the the the the the the the the the
+Ep 1 (Step 000310): Train loss 2.609, Val loss 2.906 Token seen 3980800
+O God, O God!  ANI the the the the the the the the the the the
+Ep 1 (Step 000315): Train loss 2.608, Val loss 2.901 Token seen 4044800
+O God, O God!  ANI: ANINI: ARENI the the the t the the the the
+Ep 1 (Step 000320): Train loss 2.613, Val loss 2.896 Token seen 4108800
+O God, O God!  ANI the the the the the the the the an the t the
+Ep 1 (Step 000325): Train loss 2.617, Val loss 2.891 Token seen 4172800
+O God, O God! ARENI the the the the the the the the the the the
+Ep 1 (Step 000330): Train loss 2.598, Val loss 2.892 Token seen 4236800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000335): Train loss 2.611, Val loss 2.890 Token seen 4300800
+O God, O God!  The the the the the the the the the an the the t
+Ep 1 (Step 000340): Train loss 2.611, Val loss 2.885 Token seen 4364800
+O God, O God!  The the the the the the the the the and the the
+Ep 1 (Step 000345): Train loss 2.573, Val loss 2.886 Token seen 4428800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000350): Train loss 2.585, Val loss 2.883 Token seen 4492800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000355): Train loss 2.585, Val loss 2.884 Token seen 4556800
+O God, O God!  The the the the the the the the the and the the
+Ep 1 (Step 000360): Train loss 2.580, Val loss 2.879 Token seen 4620800
+O God, O God!  The the the the the the the the the and the the
+Ep 1 (Step 000365): Train loss 2.571, Val loss 2.878 Token seen 4684800
+O God, O God!  ANI the the the the the the the the the the the
+Ep 1 (Step 000370): Train loss 2.577, Val loss 2.869 Token seen 4748800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000375): Train loss 2.584, Val loss 2.867 Token seen 4812800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000380): Train loss 2.556, Val loss 2.862 Token seen 4876800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000385): Train loss 2.583, Val loss 2.867 Token seen 4940800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000390): Train loss 2.577, Val loss 2.863 Token seen 5004800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000395): Train loss 2.543, Val loss 2.859 Token seen 5068800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000400): Train loss 2.540, Val loss 2.861 Token seen 5132800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000405): Train loss 2.547, Val loss 2.850 Token seen 5196800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000410): Train loss 2.570, Val loss 2.861 Token seen 5260800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000415): Train loss 2.533, Val loss 2.846 Token seen 5324800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000420): Train loss 2.552, Val loss 2.854 Token seen 5388800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000425): Train loss 2.547, Val loss 2.841 Token seen 5452800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000430): Train loss 2.543, Val loss 2.842 Token seen 5516800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000435): Train loss 2.527, Val loss 2.830 Token seen 5580800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000440): Train loss 2.555, Val loss 2.833 Token seen 5644800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000445): Train loss 2.536, Val loss 2.834 Token seen 5708800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000450): Train loss 2.527, Val loss 2.836 Token seen 5772800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000455): Train loss 2.535, Val loss 2.835 Token seen 5836800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000460): Train loss 2.539, Val loss 2.841 Token seen 5900800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000465): Train loss 2.526, Val loss 2.835 Token seen 5964800
+O God, O God!  ARI the the the the the the the the the the the
+Ep 1 (Step 000470): Train loss 2.533, Val loss 2.836 Token seen 6028800
+O God, O God!  ARENENENEN: T: The the the the the the the the t
+Ep 1 (Step 000475): Train loss 2.521, Val loss 2.824 Token seen 6092800
+O God, O God!  ARENENENEN: T: The the the the the the the the t
+Ep 1 (Step 000480): Train loss 2.536, Val loss 2.824 Token seen 6156800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000485): Train loss 2.513, Val loss 2.816 Token seen 6220800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000490): Train loss 2.535, Val loss 2.821 Token seen 6284800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000495): Train loss 2.517, Val loss 2.821 Token seen 6348800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000500): Train loss 2.510, Val loss 2.808 Token seen 6412800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000505): Train loss 2.507, Val loss 2.807 Token seen 6476800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000510): Train loss 2.509, Val loss 2.802 Token seen 6540800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000515): Train loss 2.504, Val loss 2.803 Token seen 6604800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000520): Train loss 2.532, Val loss 2.803 Token seen 6668800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000525): Train loss 2.519, Val loss 2.804 Token seen 6732800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000530): Train loss 2.506, Val loss 2.796 Token seen 6796800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000535): Train loss 2.535, Val loss 2.796 Token seen 6860800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000540): Train loss 2.513, Val loss 2.804 Token seen 6924800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000545): Train loss 2.522, Val loss 2.797 Token seen 6988800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000550): Train loss 2.507, Val loss 2.810 Token seen 7052800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000555): Train loss 2.506, Val loss 2.793 Token seen 7116800
+O God, O God! The the the the the the the the the the the the t
+Ep 1 (Step 000560): Train loss 2.496, Val loss 2.792 Token seen 7180800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000565): Train loss 2.521, Val loss 2.787 Token seen 7244800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000570): Train loss 2.521, Val loss 2.790 Token seen 7308800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000575): Train loss 2.512, Val loss 2.796 Token seen 7372800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000580): Train loss 2.516, Val loss 2.783 Token seen 7436800
+O God, O God!   ARINENENI the the the the the the the the the t
+Ep 1 (Step 000585): Train loss 2.506, Val loss 2.784 Token seen 7500800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000590): Train loss 2.502, Val loss 2.780 Token seen 7564800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000595): Train loss 2.485, Val loss 2.779 Token seen 7628800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000600): Train loss 2.506, Val loss 2.780 Token seen 7692800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000605): Train loss 2.504, Val loss 2.774 Token seen 7756800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000610): Train loss 2.493, Val loss 2.780 Token seen 7820800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000615): Train loss 2.474, Val loss 2.771 Token seen 7884800
+O God, O God!   ARINENENI the the the the the the the the the t
+Ep 1 (Step 000620): Train loss 2.477, Val loss 2.764 Token seen 7948800
+O God, O God!  ARINENENEN: T: The the the the the the the the t
+Ep 1 (Step 000625): Train loss 2.483, Val loss 2.762 Token seen 8012800
+O God, O God!  ARINENENEN: T: The the the the the the the the t
+Ep 1 (Step 000630): Train loss 2.490, Val loss 2.764 Token seen 8076800
+O God, O God!   ARINENENI the the the the the the the the the t
+Ep 1 (Step 000635): Train loss 2.495, Val loss 2.761 Token seen 8140800
+O God, O God!   ARINENENI: T: The the the the the the the the t
+Ep 1 (Step 000640): Train loss 2.497, Val loss 2.756 Token seen 8204800
+O God, O God!   ARINENENI the the the the the the the the the t
+Ep 1 (Step 000645): Train loss 2.509, Val loss 2.756 Token seen 8268800
+O God, O God!   ARINENENINININININ: TI t the the the the the th
+Ep 1 (Step 000650): Train loss 2.476, Val loss 2.761 Token seen 8332800
+O God, O God!   ARINENENI ININININ: TI the the the the the the
+Ep 1 (Step 000655): Train loss 2.484, Val loss 2.761 Token seen 8396800
+O God, O God!   ARINENENINININININ: TI t the the the the the th
+Ep 1 (Step 000660): Train loss 2.487, Val loss 2.755 Token seen 8460800
+O God, O God!   ARINENENINININININ: TI t the the the the the th
+Ep 1 (Step 000665): Train loss 2.488, Val loss 2.757 Token seen 8524800
+O God, O God!   ARINENININININININ: TI t the the the the the th
+Ep 1 (Step 000670): Train loss 2.484, Val loss 2.762 Token seen 8588800
+O God, O God!   ARINENENI: T: The the the the the the the the t
+Ep 1 (Step 000675): Train loss 2.480, Val loss 2.745 Token seen 8652800
+O God, O God!   ARINENENI INEN: The the the the the the the the
+Ep 1 (Step 000680): Train loss 2.477, Val loss 2.747 Token seen 8716800
+O God, O God!   ARINENENI the the the the the the the the the t
+Ep 1 (Step 000685): Train loss 2.488, Val loss 2.752 Token seen 8780800
+O God, O God!   ARINENENING: The the the the the the the the th
+Ep 1 (Step 000690): Train loss 2.499, Val loss 2.739 Token seen 8844800
+O God, O God!   ARINENENI the the the the the the the the the t
+Ep 1 (Step 000695): Train loss 2.476, Val loss 2.736 Token seen 8908800
+O God, O God!   ARINENENINININININ: TI the the the the the the
+Ep 1 (Step 000700): Train loss 2.479, Val loss 2.742 Token seen 8972800
+O God, O God!   ARINENENING: The the the the the the the the th
+Ep 1 (Step 000705): Train loss 2.489, Val loss 2.742 Token seen 9036800
+O God, O God!   ARINENININININININ: TI the the the the the the
+Ep 1 (Step 000710): Train loss 2.468, Val loss 2.731 Token seen 9100800
+O God, O God!   ARINENININININININ: TI the the the the the the
+Ep 1 (Step 000715): Train loss 2.478, Val loss 2.734 Token seen 9164800
+O God, O God!   ARINENININININININ: TI the the the the the the
+Ep 1 (Step 000720): Train loss 2.471, Val loss 2.732 Token seen 9228800
+O God, O God!   ARINENINING: The the the the the the the the th
+Ep 1 (Step 000725): Train loss 2.449, Val loss 2.734 Token seen 9292800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000730): Train loss 2.477, Val loss 2.728 Token seen 9356800
+O God, O God!   ARINENENING: The the the the the the the the th
+Ep 1 (Step 000735): Train loss 2.461, Val loss 2.729 Token seen 9420800
+O God, O God!   ARINENENING: The the the the the the the the th
+Ep 1 (Step 000740): Train loss 2.446, Val loss 2.720 Token seen 9484800
+O God, O God!   ARINENENING: T: The the the the the the the the
+Ep 1 (Step 000745): Train loss 2.475, Val loss 2.715 Token seen 9548800
+O God, O God!   ARINENENING: The the the the the the the the th
+Ep 1 (Step 000750): Train loss 2.466, Val loss 2.715 Token seen 9612800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000755): Train loss 2.473, Val loss 2.724 Token seen 9676800
+O God, O God!   ARINENENING: The the the the the the the the th
+Ep 1 (Step 000760): Train loss 2.460, Val loss 2.721 Token seen 9740800
+O God, O God!   ARINENINING: The the the the the the the the th
+Ep 1 (Step 000765): Train loss 2.470, Val loss 2.711 Token seen 9804800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000770): Train loss 2.460, Val loss 2.714 Token seen 9868800
+O God, O God!  The the the the the the the the the the the the
+Ep 1 (Step 000775): Train loss 2.439, Val loss 2.722 Token seen 9932800
+O God, O God!   ARINENINING: The the the the the the the the th
+Ep 1 (Step 000780): Train loss 2.437, Val loss 2.718 Token seen 9996800
+O God, O God!   ARINININING: The the the the the the the the th
+Ep 1 (Step 000785): Train loss 2.451, Val loss 2.711 Token seen 10060800
+O God, O God!   ARINENGLING: The the the the the the the the th
+Ep 1 (Step 000790): Train loss 2.437, Val loss 2.716 Token seen 10124800
+O God, O God!   ARINENGLARINING: The t the the the the the the
+Ep 1 (Step 000795): Train loss 2.443, Val loss 2.709 Token seen 10188800
+O God, O God!   ARINENGLARININ: The t the the the the the the t
+Ep 1 (Step 000800): Train loss 2.445, Val loss 2.701 Token seen 10252800
+O God, O God!   ARINENGLARININ: The the the the the the the the
+Ep 1 (Step 000805): Train loss 2.467, Val loss 2.706 Token seen 10316800
+O God, O God!   ARINENGLARININ: The t the the the the the the t
+Ep 1 (Step 000810): Train loss 2.455, Val loss 2.699 Token seen 10380800
+O God, O God!   ARINENGLARININ: The the the the the the the the
+Ep 1 (Step 000815): Train loss 2.462, Val loss 2.701 Token seen 10444800
+O God, O God!   ARINENGLARININ: The the the the the the the the
+Ep 1 (Step 000820): Train loss 2.459, Val loss 2.702 Token seen 10508800
+O God, O God!   ARINENGLARIN: The the the the the the the the t
+Ep 1 (Step 000825): Train loss 2.439, Val loss 2.698 Token seen 10572800
+O God, O God!  TININENGLARIN: The the the the the the the the t
+Ep 1 (Step 000830): Train loss 2.436, Val loss 2.694 Token seen 10636800
+O God, O God!   ARINENGLARINGLAREN: T: T: The the the the the t
+Ep 1 (Step 000835): Train loss 2.460, Val loss 2.692 Token seen 10700800
+O God, O God!  ARING: The the the the the the the the the the t
+Ep 1 (Step 000840): Train loss 2.453, Val loss 2.688 Token seen 10764800
+O God, O God!   ARINENGLING: The the the the the the the the th
+Ep 1 (Step 000845): Train loss 2.444, Val loss 2.693 Token seen 10828800
+O God, O God!   ARINENGLING: The the the the the the the the th
+Ep 1 (Step 000850): Train loss 2.446, Val loss 2.685 Token seen 10892800
+O God, O God!   ARINENGLING: The the the the the the the the th
+Ep 1 (Step 000855): Train loss 2.441, Val loss 2.689 Token seen 10956800
+O God, O God!   ARINENGLING: The the the the the the the the th
+Ep 1 (Step 000860): Train loss 2.448, Val loss 2.692 Token seen 11020800
+O God, O God!   ARINENGLING: The the the the the the the the th
+Ep 1 (Step 000865): Train loss 2.447, Val loss 2.693 Token seen 11084800
+O God, O God!  ARING: The the the the the the the the the the t
